@@ -2,6 +2,36 @@
 
 A comprehensive security risk management platform designed for Chief Information Security Officers (CISOs) to monitor, analyze, and report on organizational security posture.
 
+![React](https://img.shields.io/badge/React-18.2-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/yksanjo/ciso-security-dashboard?style=social)
+
+## 📸 Screenshots
+
+### Security Posture Dashboard
+![Security Dashboard](screenshots/dashboard.png)
+*Real-time security score and risk visualization*
+
+### Compliance Management
+![Compliance](screenshots/compliance.png)
+*Multi-framework compliance tracking (ISO 27001, NIST, SOC 2, GDPR)*
+
+### Vulnerability Management
+![Vulnerabilities](screenshots/vulnerabilities.png)
+*Risk-based vulnerability prioritization and tracking*
+
+### Incident Management
+![Incidents](screenshots/incidents.png)
+*Incident tracking and response metrics*
+
+> **Note**: Screenshots will be added to the `screenshots/` directory. To add your own:
+> 1. Take screenshots of your dashboard
+> 2. Save them in a `screenshots/` folder
+> 3. Update the image paths above
+
 ## Features
 
 ### 1. Security Posture Dashboard
